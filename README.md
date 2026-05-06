@@ -1,4 +1,4 @@
-## Remote-Desktop-on-off-in-IOS
+## Remote-Desktop-off-in-IOS
 
 원격 데스크톱을 외부 네트워크에서도 손쉽게 제어하는 단축어 입니다.
 
