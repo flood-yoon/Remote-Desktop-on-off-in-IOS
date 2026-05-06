@@ -1,1 +1,12 @@
-# Remote-Desktop-on-off-in-IOS
+## Remote-Desktop-on-off-in-IOS
+
+원격 데스크톱을 외부 네트워크에서도 손쉽게 제어하는 단축어 입니다.
+
+## 사용 툴
+
+애플의 단축어, ssh
+
+## 요구사항
+
+포트포워딩, 애플 기기, ssh 설정
+
